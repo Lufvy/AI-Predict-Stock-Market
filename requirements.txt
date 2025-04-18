@@ -3,3 +3,6 @@ jupyterlab
 numpy
 pandas
 matplotlib
+yfinance
+scikit-learn
+xgboost
